@@ -3,6 +3,6 @@
   "description": "lets get this bread",
   "image": "heroku/nodejs",
   "repository": "https://github.com/chargedpika/heroku-node-proxy",
-  "keywords": ["node-noblocker", "gfw-breaker"],
-  "website": "https://github.com/gfw-breaker"
+  "keywords": ["node-noblocker", "chargedpika"],
+  "website": "https://github.com/chargedpika"
 }
